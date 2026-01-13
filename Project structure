@@ -1,0 +1,21 @@
+movie-voting-app/
+  backend/
+    package.json
+    server.js
+    config.js
+    models/
+      Movie.js
+      Vote.js
+    routes/
+      movies.js
+      votes.js
+  frontend/
+    package.json
+    index.html
+    vite.config.js
+    src/
+      main.jsx
+      App.jsx
+      components/
+        MovieList.jsx
+        Leaderboard.jsx
